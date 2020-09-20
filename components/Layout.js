@@ -8,19 +8,19 @@ export default function Layout({ children }) {
   const header = isRoot ? (
     <h1 className="mb-8">
       <Link href="/">
-        <a className="font-black leading-none text-black no-underline text-7xl font-display">
-          Hare Om
+        <a className="text-2xl font-black text-black no-underline font-display">
+          Yoga Practices
         </a>
       </Link>
     </h1>
   ) : (
-    <h1 className="mb-2">
+    <h3 className="mb-2">
       <Link href="/">
-        <a className="text-2xl font-black text-black no-underline font-display">
-          Yoga Teaching &amp; Practices
+        <a className="font-black leading-none text-black no-underline text-7xl font-display">
+          Yoga Practices
         </a>
       </Link>
-    </h1>
+    </h3>
   );
 
   return (

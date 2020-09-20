@@ -15,11 +15,8 @@ export default function Bio({ className }) {
         alt="Profile"
       />
       <p className="text-base leading-7">
-        <b className="font-semibold">{author.summary}</b> by {author.name}{" "}
-        <br />
-        <a href={`https://twitter.com/${social.twitter}`}>
-          Follow him on twitter
-        </a>
+        <b className="font-semibold">{author.summary}</b> by{" "}
+        <a href="/post/first-post">{author.name}</a>
       </p>
     </div>
   );
