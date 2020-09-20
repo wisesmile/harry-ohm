@@ -1,5 +1,5 @@
 ---
-title: First post
+title: Hello, World.
 description: The first post is the most memorable one.
 date: 2020-07-08T11:00:00.000Z
 ---
@@ -14,4 +14,4 @@ In 2015, I returned to New Jersey and discovered many yoga studios close to my n
 
 My teaching and practice interests are varied; I focus on beginning students and those with special needs. I am inspired by the writings of Swami Kamalananda ("Srimati Kamala"), Swami Premananda, Swami Satchidananda, Ram Dass, BKS Iyengar, and Pema Chodron.
 
-![Cat](cat.jpg)
+![Me](me-002.jpg)

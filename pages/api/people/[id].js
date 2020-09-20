@@ -1,4 +1,4 @@
-import { people } from "./star-wars";
+import { people } from "./people.dat";
 
 export default function personHandler({ query: { id } }, res) {
   const filtered = people.filter((p) => p.id === id);
