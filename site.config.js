@@ -3,7 +3,7 @@ export default {
     title: "Harry Ohm ",
     author: {
       name: "Hare Om",
-      summary: "A Yoga Teaching and Practice.",
+      summary: "Yoga Teaching and Practices.",
     },
     description:
       "A yoga teaching and practice site created with Next.js and Tailwind.css",

@@ -10,7 +10,9 @@ export default function Home({ posts }) {
     <Layout>
       <SEO title="Harry Ohm Life" />
       <Bio className="my-14" />
-      <a href="/blog">Blog</a>
+      <a href="/blog">Posts</a>
+      <br />
+      <br />
     </Layout>
   );
 }
