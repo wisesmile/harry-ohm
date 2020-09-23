@@ -21,5 +21,3 @@ In 2015, I returned to New Jersey and discovered many yoga studios close to my n
 ![Swami One](swami-one.jpg)
 
 My teaching and practice interests are varied; I focus on beginning students and those with special needs. I am inspired by the writings of Swami Kamalananda ("Srimati Kamala"), Swami Premananda, Swami Satchidananda, Ram Dass, BKS Iyengar, and Pema Chodron.
-
-![Swami Two](swami-two.jpg)
