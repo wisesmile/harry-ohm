@@ -1247,6 +1247,11 @@
     postcss "7.0.27"
     purgecss "^2.1.2"
 
+"@happykit/analytics@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@happykit/analytics/-/analytics-1.0.1.tgz#6dcc8ec33684766ff11e56a07ed686f8f1a8febc"
+  integrity sha512-yA0XHxDrfFqjD0R2mKQHsHvJlesoXno7795XbcI7WMDFBnZ02Y/ai5ZyVu17PP4B82pmpOa8zftSYizgtXzAhg==
+
 "@jimp/bmp@^0.9.8":
   version "0.9.8"
   resolved "https://registry.yarnpkg.com/@jimp/bmp/-/bmp-0.9.8.tgz#5933ab8fb359889bec380b0f7802163374933624"
